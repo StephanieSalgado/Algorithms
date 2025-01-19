@@ -1,5 +1,6 @@
 # Algorithms
-A repository containing my implementations of various algorithms!
+A repository containing my course work and implementations of various algorithms!
+
 
 ## LeetCode:
 - [Easy]()
